@@ -31,7 +31,7 @@ I'm a passionate full-stack developer building modern web applications, clean AP
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="in/sharif-mohammdin-7151b1420" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
