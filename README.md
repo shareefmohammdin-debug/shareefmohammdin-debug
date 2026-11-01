@@ -7,7 +7,7 @@ I'm a software engineering student and full-stack web developer passionate about
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,mysql,mongodb,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,postgresql,figma,vite,nodejs,express,mysql,mongodb,git" alt="Tech Stack" />
 </p>
 
 ---
